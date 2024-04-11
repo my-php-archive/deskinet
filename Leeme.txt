@@ -1,0 +1,14 @@
+Método de instalación:
+
+   *Subir todos los archivos al host.
+   *Editar el archivo config.php con todos los datos.
+   *Ir a tu PhpMyAdmin y subir la base de datos (empty.sql).
+
+Ir al direcotrio donde tienes el script. Ejemplo: http://taringa.net
+
+
+   *Listo
+
+
+Potenciado por Fernando Dorantes Monsiváis(dorantesm) y Jl1.
+

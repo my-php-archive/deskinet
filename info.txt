@@ -1,0 +1,15 @@
+# Contact info submission
+
+url taringa.net
+site_owner Taringa!
+address1 Av. Santa Fe 3233
+address2 Oficina 23
+city Capital Federal
+state Capital Federal
+country Argentina
+postal_code 1425
+phone_number  54 (11)5917-7717
+display_email administrador@taringa.net
+site_name Taringa!
+site_description Taringa! es un sitio de entretenimiento, una comunidad donde los usuarios comparten información de diversas temáticas. Tiene una funcionalidad del tipo colaborativa (web 2.0) y es uno de los primeros sitios de este tipo del país y América Latina.
+
